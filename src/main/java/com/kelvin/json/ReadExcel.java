@@ -39,7 +39,7 @@ public class ReadExcel {
         return result;
     }
     public static void main(String[] args){
-        File file = new File("D:/luceneData/test5.xls");
+        File file = new File("/Users/kelvin/Documents/test.xls");
         System.out.println(xls2String(file));
     }
 }
