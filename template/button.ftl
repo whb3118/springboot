@@ -26,7 +26,7 @@
         "description": "${description}GridButton定义"
     },
     {
-		"id":"${buttonId1}",
+		"id":"${buttonId2}",
         "type": "button",
         "appid": "${appId}",
         "parentid": "${parentId}",
